@@ -6,7 +6,7 @@
   <h1>⚡ Full-Stack Developer & AI Enthusiast ⚡</h1>
   <p>
     <img src="https://img.shields.io/badge/SENATI-Estudiante%205to%20Ciclo-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI--Integration-Expert-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AI--Integration-Specialist-8A2BE2?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Hacker--Etico-Cisco%20Certified-red?style=for-the-badge&logo=cisco&logoColor=white" />
   </p>
 </div>
@@ -14,39 +14,49 @@
 ---
 
 ### 🚀 Sobre Mí
-*   🎓 **Academia:** Ingeniería de Software con IA en **SENATI**.
-*   🛡️ **Ciberseguridad:** Especializándome en **Hacker Ético**.
-*   💼 **Experiencia:** Desarrollo de aplicaciones full-stack y atención especializada en telemetría.
-*   ⚽ **Cultura:** Hincha de **Alianza Lima**.
+*   🎓 **Academia:** Estudiante de Ingeniería de Software con IA en **SENATI**.
+*   🛡️ **Seguridad:** Especializándome en **Hacker Ético** (Cisco Networking Academy).
+*   💼 **Experiencia:** Desarrollo de aplicaciones full-stack y sistemas inteligentes.
+*   ⚽ **Cultura:** Hincha apasionado de **Alianza Lima**.
 
 ---
 
-### 🌟 Proyectos Destacados
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=Sign-Learn-AI&theme=tokyonight" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=house-price-prediction&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+### 🌟 Proyectos Destacados (Showcase)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <b>🏠 Sistema de Predicción de Casas</b><br />
+        <i>Análisis predictivo del mercado inmobiliario con Python</i><br />
+        <a href="https://github.com/vikito-dev/sistemadepredicciondecasas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=sistemadepredicciondecasas&theme=tokyonight" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <b>💊 Gestión de Botica</b><br />
+        <i>Sistema de control de inventario y ventas</i><br />
+        <a href="https://github.com/vikito-dev/botica-gestion">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=botica-gestion&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🛠️ Premium Stack (Languages & Tools)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nodejs,spring,mysql,mongodb,tensorflow,github,vscode,git,linux,figma,postman,bootstrap,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nodejs,spring,mysql,postgresql,supabase,tensorflow,github,vscode,git,linux,figma,postman,bootstrap&theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 ---
