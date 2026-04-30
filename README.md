@@ -7,17 +7,31 @@
   <p>
     <img src="https://img.shields.io/badge/SENATI-Estudiante%205to%20Ciclo-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
     <img src="https://img.shields.io/badge/AI--Integration-Expert-8A2BE2?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Hacker--Etico-En%20Progreso-red?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hacker--Etico-Cisco%20Certified-red?style=for-the-badge&logo=cisco&logoColor=white" />
   </p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mí
-*   🎓 **Academia:** Estudiante de Ingeniería de Software con IA en **SENATI**.
-*   💻 **Proyectos:** Enfocado en el desarrollo de un **Sistema de Predicción de Precios de Casas**.
-*   🛡️ **Seguridad:** Especializándome en el curso de **Hacker Ético** de Cisco Networking Academy.
-*   ⚽ **Cultura:** Hincha apasionado de **Alianza Lima**.
+*   🎓 **Academia:** Ingeniería de Software con IA en **SENATI**.
+*   🛡️ **Ciberseguridad:** Especializándome en **Hacker Ético**.
+*   💼 **Experiencia:** Desarrollo de aplicaciones full-stack y atención especializada en telemetría.
+*   ⚽ **Cultura:** Hincha de **Alianza Lima**.
+
+---
+
+### 🌟 Proyectos Destacados
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=Sign-Learn-AI&theme=tokyonight" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=house-price-prediction&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,7 +46,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 ---
