@@ -1,58 +1,72 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOFTWARE%20ENGINEER&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" />
-  
-  <h1>Hi, I'm Victor! 👋</h1>
-  
-  <p>
-    🔥 <b>Software Developer grinding hard to make something cool</b><br>
-    ✨ <b>Favorite Tech: Python, React, TypeScript, Java Spring Boot ...</b><br>
-    📧 <b>quispecurovictorantonio4@gmail.com</b>
-  </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Victor%20Quispe&fontSize=85&animation=fadeIn&fontAlignY=38&theme=dark" />
+</p>
 
+<div align="center">
+  <h1>🚀 Software Engineer & IA Developer 🤖</h1>
   <p>
-    🏠 <b>Base: Lima / Cieneguilla, Peru</b><br>
-    🎓 <b>Studying Software Engineering with AI @ SENATI (5th Cycle)</b>
+    <b>Desarrollador enfocado en soluciones inteligentes y escalables</b>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 **I’m currently working on:** [Sistema de predicción de precios de casas](https://github.com/vikito-dev)
-- 🌱 **I’m currently learning:** Hacker Ético en Cisco Networking Academy y Java Spring Boot.
-- 👯 **I’m looking to collaborate on:** Proyectos Full-Stack Web o aplicaciones móviles con IA.
-- 🤝 **I’m looking for help with:** Optimización de modelos de Machine Learning y despliegue en la nube.
-- 💬 **Ask me about:** React, Node.js, Python y desarrollo de sistemas con SQL/NoSQL.
-- ⚡ **Fun fact:** Soy hincha de Alianza Lima y me gusta asistir a los partidos en el estadio.
+### 👤 Sobre Mí
+*   🎓 **Estudios:** Estudiante del 5to ciclo de Ingeniería de Software con IA en SENATI.
+*   💻 **Enfoque:** Especializado en desarrollo Full-Stack e integración de Machine Learning.
+*   🛡️ **Ciberseguridad:** Cursando Hacker Ético en Cisco Networking Academy.
+*   ⚽ **Pasión:** Hincha de Alianza Lima y asistente recurrente al estadio.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Lenguajes y Tecnologías
+<div align="center">
+  <!-- Iconos Estilo Premium / Hand-drawn -->
+  <img src="https://skillicons.dev/icons?i=js,py,github,vscode,nodejs,react,android,git,java,spring,mysql,html,css,bootstrap,figma,postman&theme=dark" />
+</div>
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+<br />
+
+<div align="center">
+  <!-- Badges de Herramientas Secundarias -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estadísticas de Desarrollador
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikito-dev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikito-dev&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikito-dev&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-### 📊 My Stats
+### 🌐 Mis Redes Sociales
+<div align="center">
+  <a href="https://www.tiktok.com/@tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@tu_canal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/tu_id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:quispecurovictorantonio4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikito-dev&show_icons=true&locale=en&theme=vision-friendly-dark" alt="stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikito-dev&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikito-dev&theme=vision-friendly-dark" alt="streak" />
+  <img src="https://raw.githubusercontent.com/moca-c/moca-c/master/img/grid-snake.svg" alt="Snake animation" />
 </p>
