@@ -12,7 +12,7 @@
   
   <br />
 
-  <a href="TU_ENLACE_DE_CANVA_AQUI">
+  <a href="https://canva.link/mjeu6cel4bitf1j" target="_blank">
     <img src="https://img.shields.io/badge/VER%20PORTAFOLIO%20COMPLETO-Canva-blueviolet?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </div>
@@ -21,33 +21,26 @@
 
 ### 🚀 Sobre Mí
 *   🎓 **Academia:** Estudiante de Ingeniería de Software con IA en **SENATI**.
-*   🛡️ **Seguridad:** Especializándome en **Hacker Ético** (Cisco Networking Academy).
-*   💼 **Experiencia:** Desarrollo Full-Stack y proyectos de Machine Learning.
+*   🛡️ **Ciberseguridad:** Especializándome en **Hacker Ético** mediante Cisco Networking Academy.
+*   💻 **Proyectos:** Desarrollando actualmente el **Sistema de Predicción de Precios de Casas**.
 *   ⚽ **Cultura:** Hincha de **Alianza Lima**.
 
 ---
 
 ### 🌟 Proyectos Destacados (Showcase)
-
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <b>🏠 Sistema de Predicción de Casas</b><br />
-        <i>Machine Learning para el mercado inmobiliario</i><br />
-        <img src="https://i.ibb.co/vzB7CqD/preview-casas.png" width="100%" alt="Interfaz Predicción Casas" />
-        <br />
+        <b>🏠 Predicción de Casas</b><br />
         <a href="https://github.com/vikito-dev/sistemadepredicciondecasas">
-          <img src="https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=flat-square&logo=github" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=sistemadepredicciondecasas&theme=tokyonight" />
         </a>
       </td>
       <td width="50%" align="center">
         <b>💊 Gestión de Botica (Nova Salud)</b><br />
-        <i>Dashboard de Inteligencia de Negocio e Inventario</i><br />
-        <img src="https://i.ibb.co/C07B4Mv/botica-interface.png" width="100%" alt="Interfaz Botica" />
-        <br />
         <a href="https://github.com/vikito-dev/botica-gestion">
-          <img src="https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=flat-square&logo=github" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikito-dev&repo=botica-gestion&theme=tokyonight" />
         </a>
       </td>
     </tr>
@@ -56,30 +49,30 @@
 
 ---
 
-### 🛠️ Premium Stack
+### 🛠️ Premium Stack (Languages & Tools)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nodejs,spring,mysql,postgresql,supabase,tensorflow,github,vscode,git,linux,figma,postman,bootstrap&theme=dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
 ---
 
 ### 📊 Análisis de Código
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikito-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikito-dev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikito-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikito-dev&layout=compact&theme=tokyonight"/>
 </p>
-
-> **Nota:** Si las estadísticas muestran error, asegúrate de que tus repositorios sean públicos.
 
 ---
 
-### 🐍 Actividad Reciente
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake?username=vikito-dev&color_dots=%23BFD6F6%2C%238DB1ED%2C%234A7CF2%2C%231A5DF0%2C%230044DE&color_snake=%238A2BE2" alt="snake" />
-</div>
-
-<br />
-
+### 🌐 Contacto
 <div align="center">
   <a href="mailto:quispecurovictorantonio4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/vikito_oficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
